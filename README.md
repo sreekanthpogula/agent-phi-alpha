@@ -42,6 +42,14 @@ web_agent = Agent(
 web_agent.print_response("Tell me about OpenAI Sora?", stream=True)
 ```
 
+## Output
+When you run the above code, you will see the agent respond with information about OpenAI Sora, including sources from DuckDuckGo.
+
+## Sample output Images
+![agentic_output1.png](assets/agentic_output1.png)
+![agentic_output2.png](assets/agentic_output2.png)
+![playgroung_output.png](assets/playgroung_output.png)
+
 Setup
 1. Setup your virtual environment
    Mac
